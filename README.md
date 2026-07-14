@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Замени YOUR_USERNAME на свой никнейм на GitHub для счетчика просмотров -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=gesheftmann&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
