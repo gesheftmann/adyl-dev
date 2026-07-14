@@ -45,6 +45,6 @@
 
 <p align="center">
   <!-- Замени YOUR_USERNAME на свой никнейм на GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gesheftmann&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gesheftmann&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
