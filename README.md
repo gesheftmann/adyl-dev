@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Adyl Bekov 👋</h1>
-<h3 align="center">A passionate junior backend developer fresh out of university 🎓</h3>
+<h3 align="center">A passionate junior backend developer fresh out of Ala-Too International University 🎓</h3>
 
 ---
 
@@ -8,8 +8,7 @@
 - 🔭 I’m currently looking for my first full-time role as a Python Backend Engineer.
 - 🌱 I’m actively continuing my education and honing my skills in backend architecture.
 - 👯 I’m looking to collaborate on open-source projects to gain real-world experience.
-- 📫 How to reach me: **[Ссылка на твой Telegram / Твой Email]**
-- ⚡ Fun fact: When I'm not coding, you can usually find me watching UFC, playing a quick game of chess, or studying Japanese so I can read visual novels in their original language.
+- 📫 How to reach me: **adylbekov874@gmail.com/telegram:gesheftmann**
 
 ---
 
