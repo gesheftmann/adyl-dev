@@ -38,3 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
 </p>
+
+- 🚀 Check out some of my recent work:
+  - [Console File Maganer](https://github.com/gesheftmann/final-project) — console file manager with VI key bindings
+  - [Python Steam Module](https://github.com/gesheftmann/SteamworksPy) — attempt to bring a fully-functional Python module for Steam
