@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adyl Bekov 👋</h1>
-<h3 align="center">A passionate junior backend developer fresh out of university 🎓</h3>
+<h3 align="center">A passionate junior backend developer fresh out of Ala-Too International University 🎓</h3>
 
 ---
 
@@ -43,6 +43,6 @@
 ---
 
 
-### 🚀 Check out some of my recent work:
+### 🚀 My recent work:
   - [Console File Maganer](https://github.com/gesheftmann/final-project) — console file manager with VI key bindings
   - [Python Steam Module](https://github.com/gesheftmann/SteamworksPy) — attempt to bring a fully-functional Python module for Steam
